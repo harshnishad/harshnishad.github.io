@@ -42,7 +42,7 @@ const projects = [
       'This web application React.js to provide a seamless movie search experience using the themoviedb API, displaying key details like title and year in an easy-to-read format. Users can also view in-depth movie information and mark favorites for quick access, showcasing skills in API integration and web development.',
     stack: ['Tailwind', 'React','API'],
     sourceCode: 'https://github.com/harshnishad/IMDB-CLONE-REACT-JS',
-    livePreview: 'https://imdb-clone-by-harsh.onrender.com',
+    livePreview: 'https://imdb-clone-react-js-j1tr.vercel.app/movies/top_rated',
   },
 ]
 
