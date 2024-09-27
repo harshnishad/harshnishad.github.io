@@ -14,6 +14,7 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/harshnishad',
     github: 'https://github.com/harshnishad',
+    codolio:'https://codolio.com/profile/mRYNrXT4'
   },
 }
 
