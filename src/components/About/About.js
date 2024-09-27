@@ -65,6 +65,15 @@ const About = () => {
                 </svg>
               </a>
             )}
+                        {social.linkedin && (
+              <a
+                href={social.codolio}
+                aria-label="linkedin"
+                className="link link--icon"
+              >
+                <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio" width="30" height="30" />
+              </a>
+            )}
           </>
         )}
       </div>
