@@ -30,12 +30,12 @@ const projects = [
     livePreview: 'https://drive.google.com/file/d/1ntOJAYK0_ffjGvIAPBc25CTMfzXwVM7d/view?usp=sharing',
   },
   {
-    name: 'Campus Portal',
+    name: 'Campus Link',
     description:
       'Created a MERN stack application for managing timetables, attendance, and roles (admin, teacher, student) with ReduxToolkit for state management.Admins manage timetables and roles, teachers mark attendance, and students view schedules and attendance records.',
     stack: ['React.js', 'Node.js', 'Rest Api', 'Express.js', 'MongoDB', 'Redux Toolkit'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/Campus-Link',
+    livePreview: 'https://campus-link-hieg.vercel.app/',
   },
   {
     name: 'IMDB Clone',
