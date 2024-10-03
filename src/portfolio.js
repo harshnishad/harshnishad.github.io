@@ -10,7 +10,7 @@ const about = {
   role: 'Welcome to my personal website',
   description:
     'Welcome! I’m Harsh Nishad, a passionate Computer Science student at GLA University, specializing in software development and data structures. With hands-on experience in both front-end and back-end technologies, I thrive on creating efficient and user-friendly applications. My recent projects include a Desktop Agent Application and a Campus Portal, showcasing my skills in MERN STACK, JAVA, and more. Let’s connect and explore innovative solutions together.',
-  resume: 'https://drive.google.com/file/d/1QUvQtns0EiyySwDeVwF-GuiiwyMjEu81/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1CAPWOEIi20zYuO6Fs-zVVbk3ukemIBgB/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/harshnishad',
     github: 'https://github.com/harshnishad',
