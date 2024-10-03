@@ -26,7 +26,7 @@ const projects = [
     description:
       'This project involves developing a Python-based desktop agent application that tracks employee activity and securely uploads relevant data (e.g., screenshots) to Amazon S3 or a similar cloud storage service. The application is designed to monitor genuine user activity and handle configuration changes',
     stack: ['Python', 'Fast API', 'Aws S3', 'React.js', 'MongoDB'],
-    sourceCode: 'https://github.com/harshnishad/WorkLive',
+    sourceCode: 'https://github.com/harshnishad/Desktop-Agent-Application',
     livePreview: 'https://drive.google.com/file/d/1ntOJAYK0_ffjGvIAPBc25CTMfzXwVM7d/view?usp=sharing',
   },
   {
