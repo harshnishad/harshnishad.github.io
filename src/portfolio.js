@@ -22,20 +22,20 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'WorkLive',
-    description:
-      'This project involves developing a Python-based desktop agent application that tracks employee activity and securely uploads relevant data (e.g., screenshots) to Amazon S3 or a similar cloud storage service. The application is designed to monitor genuine user activity and handle configuration changes',
-    stack: ['Python', 'Fast API', 'Aws S3', 'React.js', 'MongoDB'],
-    sourceCode: 'https://github.com/harshnishad/Desktop-Agent-Application',
-    livePreview: 'https://drive.google.com/file/d/1ntOJAYK0_ffjGvIAPBc25CTMfzXwVM7d/view?usp=sharing',
-  },
-  {
     name: 'Campus Link',
     description:
       'Created a MERN stack application for managing timetables, attendance, and roles (admin, teacher, student) with ReduxToolkit for state management.Admins manage timetables and roles, teachers mark attendance, and students view schedules and attendance records.',
     stack: ['React.js', 'Node.js', 'Rest Api', 'Express.js', 'MongoDB', 'Redux Toolkit'],
     sourceCode: 'https://github.com/Campus-Link',
     livePreview: 'https://campus-link-hieg.vercel.app/',
+  },
+   {
+    name: 'WorkLive',
+    description:
+      'This project involves developing a Python-based desktop agent application that tracks employee activity and securely uploads relevant data (e.g., screenshots) to Amazon S3 or a similar cloud storage service. The application is designed to monitor genuine user activity and handle configuration changes',
+    stack: ['Python', 'Fast API', 'Aws S3', 'React.js', 'MongoDB'],
+    sourceCode: 'https://github.com/harshnishad/Desktop-Agent-Application',
+    livePreview: 'https://drive.google.com/file/d/1ntOJAYK0_ffjGvIAPBc25CTMfzXwVM7d/view?usp=sharing',
   },
   {
     name: 'IMDB Clone',
@@ -45,6 +45,7 @@ const projects = [
     sourceCode: 'https://github.com/harshnishad/IMDB-CLONE-REACT-JS',
     livePreview: 'https://imdb-clone-react-js-j1tr.vercel.app/movies/top_rated',
   },
+  
 ]
 
 const skills = [
